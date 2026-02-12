@@ -1,9 +1,0 @@
-{
-  "name": "Wii U - Mii Maker - Gamepad",
-  "description": "The background menu music played in the Mii Maker, before you make a Mii. Credit: https://archive.org/details/wiiumusic",
-  "author": "canoffood",
-  "version": "v1.0",
-  "manifest_version": 2,
-  "music": true,
-  "ignore": []
-}
